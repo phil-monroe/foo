@@ -2,19 +2,19 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://foo.philmonroe.com//blog/2014/01/21/setting-up-octopress/</loc>
-        <lastmod>2014-01-21T20:26:29-08:00</lastmod>
+        <lastmod>2014-01-21T23:35:35-08:00</lastmod>
     </url>
     <url>
         <loc>http://foo.philmonroe.com//blog/2014/01/21/testing-with-cloudflare/</loc>
-        <lastmod>2014-01-21T20:49:45-08:00</lastmod>
+        <lastmod>2014-01-21T23:35:21-08:00</lastmod>
     </url>
     <url>
         <loc>http://foo.philmonroe.com//blog/archives/</loc>
-        <lastmod>2014-01-21T20:49:45-08:00</lastmod>
+        <lastmod>2014-01-21T23:35:35-08:00</lastmod>
     </url>
     <url>
         <loc>http://foo.philmonroe.com//</loc>
-        <lastmod>2014-01-21T20:49:45-08:00</lastmod>
+        <lastmod>2014-01-21T23:35:35-08:00</lastmod>
     </url>
     <url>
         <loc>http://foo.philmonroe.com//robots.txt</loc>

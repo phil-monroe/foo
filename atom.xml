@@ -4,7 +4,7 @@
   <title><![CDATA[Foo Blog]]></title>
   <link href="http://foo.philmonroe.com//atom.xml" rel="self"/>
   <link href="http://foo.philmonroe.com//"/>
-  <updated>2014-01-21T20:49:52-08:00</updated>
+  <updated>2014-01-21T23:35:58-08:00</updated>
   <id>http://foo.philmonroe.com//</id>
   <author>
     <name><![CDATA[Phil Monroe]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA['Testing With Cloudflare']]></title>
+    <title type="html"><![CDATA[Testing With Cloudflare]]></title>
     <link href="http://foo.philmonroe.com//blog/2014/01/21/testing-with-cloudflare/"/>
     <updated>2014-01-21T20:40:52-08:00</updated>
     <id>http://foo.philmonroe.com//blog/2014/01/21/testing-with-cloudflare</id>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA['Setting Up Octopress']]></title>
+    <title type="html"><![CDATA[Setting Up Octopress]]></title>
     <link href="http://foo.philmonroe.com//blog/2014/01/21/setting-up-octopress/"/>
     <updated>2014-01-21T20:21:26-08:00</updated>
     <id>http://foo.philmonroe.com//blog/2014/01/21/setting-up-octopress</id>
@@ -72,7 +72,7 @@
 </span><span class='line'>git config branch.master.remote origin
 </span><span class='line'>git push origin master
 </span><span class='line'>
-</span><span class='line'>rake new_post<span class="o">[</span><span class="s2">&quot;setting up octopress&quot;</span><span class="o">]</span>
+</span><span class='line'>rake <span class="s1">&#39;new_post[setting up octopress]&#39;</span>
 </span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
