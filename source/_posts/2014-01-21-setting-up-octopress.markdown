@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'setting up octopress'"
+title: Setting up Octopress
 date: 2014-01-21 20:21:26 -0800
 comments: true
 categories:
@@ -29,5 +29,5 @@ git remote add origin git@github.com:phil-monroe/foo.git
 git config branch.master.remote origin
 git push origin master
 
-rake new_post["setting up octopress"]
+rake 'new_post[setting up octopress]'
 ```
