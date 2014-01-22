@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://phil-monroe.github.io/foo/blog/2014/01/21/setting-up-octopress/</loc>
+        <loc>http://foo.philmonroe.com//blog/2014/01/21/setting-up-octopress/</loc>
         <lastmod>2014-01-21T20:26:29-08:00</lastmod>
     </url>
     <url>
-        <loc>http://phil-monroe.github.io/foo/blog/archives/</loc>
+        <loc>http://foo.philmonroe.com//blog/archives/</loc>
         <lastmod>2014-01-21T20:26:29-08:00</lastmod>
     </url>
     <url>
-        <loc>http://phil-monroe.github.io/foo/</loc>
+        <loc>http://foo.philmonroe.com//</loc>
         <lastmod>2014-01-21T20:26:29-08:00</lastmod>
     </url>
     <url>
-        <loc>http://phil-monroe.github.io/foo/robots.txt</loc>
+        <loc>http://foo.philmonroe.com//robots.txt</loc>
         <lastmod>2014-01-21T20:00:13-08:00</lastmod>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://phil-monroe.github.io/foo/sitemap.xml 
+Sitemap: http://foo.philmonroe.com//sitemap.xml 
