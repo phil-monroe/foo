@@ -4,7 +4,7 @@
   <title><![CDATA[Foo Blog]]></title>
   <link href="http://foo.philmonroe.com//atom.xml" rel="self"/>
   <link href="http://foo.philmonroe.com//"/>
-  <updated>2014-01-21T20:41:03-08:00</updated>
+  <updated>2014-01-21T20:49:52-08:00</updated>
   <id>http://foo.philmonroe.com//</id>
   <author>
     <name><![CDATA[Phil Monroe]]></name>
@@ -18,7 +18,7 @@
     <link href="http://foo.philmonroe.com//blog/2014/01/21/testing-with-cloudflare/"/>
     <updated>2014-01-21T20:40:52-08:00</updated>
     <id>http://foo.philmonroe.com//blog/2014/01/21/testing-with-cloudflare</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>You need to make sure to purge cloudflare cache to pickup changes</p>
 ]]></content>
   </entry>
   
